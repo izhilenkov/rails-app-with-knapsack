@@ -1,4 +1,4 @@
 {
-  "spec/services/calculator_spec.rb": 0.002123117446899414,
-  "spec/services/meme_spec.rb": 0.00027441978454589844
+  "spec/controllers/articles_controller_spec.rb": 0.025055885314941406,
+  "spec/services/calculator_spec.rb": 0.001224517822265625
 }
