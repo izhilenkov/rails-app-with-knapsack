@@ -1,4 +1,4 @@
 {
-  "spec/controllers/articles_controller_spec.rb": 0.025679349899291992,
-  "spec/controllers/welcome_controller_spec.rb": 0.0049054622650146484
+  "spec/controllers/welcome_controller_spec.rb": 0.016153812408447266,
+  "spec/services/meme_spec.rb": 0.0011599063873291016
 }
